@@ -5,7 +5,7 @@ Technologies used:
 HTML
 Features:
 Display a welcome message.
-shows a simple paragraph
+shows a simple paragraph.
 How to run:
 1. Download the project
 2. open the index.html file in a web browser
